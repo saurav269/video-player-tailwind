@@ -32,6 +32,8 @@ const VideoCard = ({ video }) => {
                     </span>
                     <span className="text-[12px] font-semibold mt-2 text-white/[0.7] flex items-center">
                         {video?.author?.title}
+
+                        {/* FOR VERIFING CHANNEL */}
                         {video?.author?.badges[0]?.type ===
                             "VERIFIED_CHANNEL" && (
                             <BsFillCheckCircleFill className="text-white/[0.5] text-[12px] ml-1" />
