@@ -24,3 +24,21 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 <h2>Acknowledgements:</h2>
 Special thanks to the React.js and Tailwind CSS communities for their excellent tools and resources.
+
+
+<h2>Glimps</h2>
+
+<img width="949" alt="Screenshot 2024-02-21 143827" src="https://github.com/saurav269/video-player-tailwind/assets/110054999/d4535050-0b71-4d97-aeaf-b48d4b7c454b">
+
+<br />
+<br />
+
+<img width="946" alt="Screenshot 2024-02-21 150123" src="https://github.com/saurav269/video-player-tailwind/assets/110054999/c4da6c3e-05b0-408e-8156-9b4d25a2d025">
+
+<br />
+<br />
+
+<img width="947" alt="Screenshot 2024-02-21 150149" src="https://github.com/saurav269/video-player-tailwind/assets/110054999/a607ebd4-769e-4167-a38b-c5382a75adee">
+
+
+
